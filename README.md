@@ -12,10 +12,10 @@ A console-based banking application written in Java using Object-Oriented Progra
 
 ## OOP Concepts Used
 
-1.Classes and objects
-2.Encapsulation
-3.Constructors
-4.Abstraction
+1.Classes and objects<br>
+2.Encapsulation<br>
+3.Constructors<br>
+4.Abstraction<br>
 
 ## Project Structure
 
