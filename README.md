@@ -28,5 +28,4 @@ Requires the Java JDK.
 javac project.java
 java project
 
-Author - Harsh Valvi
 
